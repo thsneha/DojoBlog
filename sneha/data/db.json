@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first blogs",
+      "body": "why do we use it?Its  a content from the data..How far as do it./...",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "My second blogs",
+      "body": "how we use these...how can we go through the contents  are all going",
+      "author": "luigi",
+      "id": 2
+    },
+    {
+      "title": "welcome",
+      "body": "welcome message",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
